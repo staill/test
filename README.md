@@ -1,6 +1,6 @@
-# ops_doc
-
-  文档制作: left_left  小蜗牛  PF  雪松  rock  Jesse  sanm  Derek
+#ops_doc
+转载来的，以下信息不更改，只是为了以后看着方便，顺便学习一下使用的github上上第一次用好啊
+  文档制作：left_left小蜗牛PF雪松摇滚Jesse sanm Derek的
   
   更新日期: 2016-04-28
   
